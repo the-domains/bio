@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9929166433911261
+  lightness: 0.856729135498933
+  rhythmicContrast: 0.43679900772552516
+  saturation: 0.9385537952312796
+cta: {}
+layout_spectrum: 0.6222444805285782
+name: bio
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.370966763255944
